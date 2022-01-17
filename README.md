@@ -1,10 +1,10 @@
-The task of this project is to implement a convolutional neural network (CNN) that can classify with high precision a bunch of musical instruments, using some features extracted 
-from some audio files, which are in dataset.zip.
+L'obiettivo del progetto è quello di implementare una rete neurale convoluzionale (CNN) che sia in grado di classificare con discreta precisione strumenti musicali, 
+analizzandone alcune feature estratte dai file audio all'interno di 'dataset.zip'.
 
-You may need to change something in the notebook before execution, like the position of the files/directories implemented.
-Some Python libraries (Librosa, python_speech_features, ...) may not be included in your notebook environment. Check docs in the links below:
+Sarà necessario applicare alcune modifiche prima dell'esecuzione, come la posizione di file/cartelle indicate nel codice.
+
+Alcune librerie potrebbero non essere presenti all'interno dell'ambiente di Anaconda/Colab: per scaricarle e implementarle, guarda le documentazioni:
 
 Librosa : https://librosa.org/doc/latest/index.html <br>
-python_speech_features: https://python-speech-features.readthedocs.io/en/latest/
-
-If any other error occurs, check docs for that library.
+python_speech_features: https://python-speech-features.readthedocs.io/en/latest/<br>
+tqdm: https://tqdm.github.io/<br>
