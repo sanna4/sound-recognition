@@ -8,3 +8,5 @@ Alcune librerie potrebbero non essere presenti all'interno dell'ambiente di Anac
 Librosa : https://librosa.org/doc/latest/index.html <br>
 python_speech_features: https://python-speech-features.readthedocs.io/en/latest/<br>
 tqdm: https://tqdm.github.io/<br>
+<br>
+Link download file audio (scaricare solamente la cartella 'audio_train'): https://www.kaggle.com/c/freesound-audio-tagging/data
