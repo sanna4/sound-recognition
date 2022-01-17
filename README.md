@@ -7,4 +7,4 @@ Some Python libraries (Librosa, python_speech_features, ...) may not be included
 Librosa : https://librosa.org/doc/latest/index.html <br>
 python_speech_features: https://python-speech-features.readthedocs.io/en/latest/
 
-If any other error occurs, check the right docs.
+If any other error occurs, check docs for that library.
