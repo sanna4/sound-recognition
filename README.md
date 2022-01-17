@@ -1,5 +1,5 @@
 L'obiettivo del progetto è quello di implementare una rete neurale convoluzionale (CNN) che sia in grado di classificare con discreta precisione strumenti musicali, 
-analizzandone alcune feature estratte dai file audio all'interno di 'dataset.zip'.
+analizzandone alcune feature estratte dai file audio del dataset.
 
 Sarà necessario applicare alcune modifiche prima dell'esecuzione, come la posizione di file/cartelle indicate nel codice.
 
