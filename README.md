@@ -1,4 +1,4 @@
-The task of this project is to implement a convolutional neural network (CNN) that can classify with good precision a bunch of musical instruments, using some features extracted 
+The task of this project is to implement a convolutional neural network (CNN) that can classify with high precision a bunch of musical instruments, using some features extracted 
 from some audio files, which are in dataset.zip.
 
 You may need to change something in the notebook before execution, like the position of the files/directories implemented.
